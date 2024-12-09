@@ -6,6 +6,10 @@ $(document).ready(function() {
         "email address": "You can contact us at:arpitsinha579@gmail.com",
     };
 
+    // Make chatbot hidden and icon visible on page load
+    $('#chatbot').hide();
+    $('#chatbot-icon').show();
+
     $('#chatbot-send').on('click', function() {
         processInput();
     });
@@ -42,7 +46,7 @@ $(document).ready(function() {
         }
     });
 
-    // Toggle chatbot visibility
+    // Close button hides the chatbot and shows the small icon
     $('#chatbot-close').on('click', function() {
         $('#chatbot').hide();
         $('#chatbot-icon').show();
