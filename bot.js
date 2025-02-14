@@ -1,6 +1,6 @@
 $(document).ready(function() {
     const botResponses = {
-        "hi": "Hello! you can contact arpit through his whatsapp no:+9779806037225....arpit is waiting for your response❤️......it seems to cringe right🤣,i need your feed-forward",
+        "hi": "Hello! you can contact arpit through his whatsapp no:+9779806037225....arpit is waiting for your response❤️......it seems too cringe🤣,i need your feed-forward",
         "what is your name": "I'm your api bot",
         "contact detail": "You can reach us at: Phone: +9779806037225",
         "email address": "You can contact us at:arpitsinha579@gmail.com",
