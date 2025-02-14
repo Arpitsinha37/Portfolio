@@ -72,10 +72,4 @@
     border: none;
     cursor: pointer;
 }
-#header img {
-    position: absolute;
-    top: 10px;  /* Adjust as needed */
-    right: 10px; /* Adjust as needed */
-    width: 100px; /* Adjust size as needed */
-    height: auto;
-}
+
